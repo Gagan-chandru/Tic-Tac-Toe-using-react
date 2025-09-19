@@ -1,0 +1,116 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right,#00AAFF,#00ff6c);
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  position: relative;
+}
+.title{
+    font-size: x-large;
+    color: #444;
+}
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  color: #00AAFF;
+  background-color: #fff;
+  border: 2px solid #a7a3a3;
+  border-radius: 5px;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.square:hover {
+  background-color: #cecccc;
+}
+
+.winning-square {
+  background-color: #8ef08e;
+  font-size: 2rem;
+  border-radius: 5px;
+  color: rgb(236, 25, 95);
+}
+
+.reset-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #6200ea;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.reset-button:hover {
+  background-color: #4500a0;
+}
+
+.winner-message {
+  font-size: 1.2rem;
+  padding: 10px 15px;
+  color: #444;
+  background-color: #ffeb3b;
+  border: 2px solid #fbc02d;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.notwin{
+    display: none;
+}
+.buttons{
+  width: 45vh;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly
+}
+.scoreboard{
+align-self: flex-end;
+position: absolute;
+top: 50%;
+margin-right: 4.5rem;
+transform: translateY(-50%);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.hide{
+ display: none;
+}
+.scores{
+  display: flex;
+  flex-direction: row;
+}
+.scr{
+  border-radius: 6px;
+  background-color: #9078dd;
+  padding: .9rem;
+  margin-bottom: .8rem;
+  font-size: larger;
+  margin-left: .6rem;
+}
+span{
+  margin-left: .7rem;
+  color: #444;
+  font-weight: 700;
+}
