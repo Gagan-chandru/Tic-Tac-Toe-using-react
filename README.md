@@ -1,4 +1,4 @@
-# 🎯 Tic-Tac-Toe Game (React.js)
+# 🎮 Tic-Tac-Toe Game (React)
 
 A modern implementation of the classic **Tic-Tac-Toe** game built using **React.js**. This project focuses on interactive gameplay, clean UI, and enhanced features like **win/draw detection**, **score tracking**, and a **toggle to show/hide scores**.
 
@@ -28,13 +28,7 @@ A modern implementation of the classic **Tic-Tac-Toe** game built using **React.
   Keeps a tally of wins for each player during the session.
 
 - 💅 **Clean and Responsive UI**  
-  Designed for simplicity and ease of use. *(Optional: Mention responsive only if implemented.)*
-
----
-
-## 📸 Preview
-
-> _Add screenshots or a GIF here to showcase the UI and features._
+  Designed for simplicity and ease of use. 
 
 ---
 
