@@ -1,4 +1,4 @@
-## 🔗 [Live Demo]
+## 🔗 [Live Demo](https://tic-tac-toe-using-react-gagan-netlify)
 
 <p>
   <a href="https://tic-tac-toe-using-react-gagan-netlify" target="_blank">
