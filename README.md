@@ -60,9 +60,4 @@ git clone https://github.com/Gagan-chandru/Tic-Tac-Toe-using-react.git
 3.Start the app:-
 npm start
 
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
 
