@@ -1,3 +1,5 @@
+[![Live on Netlify](https://img.shields.io/badge/Play%20Now-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://your-netlify-site.netlify.app)
+
 # 🎮 Tic-Tac-Toe Game (React)
 
 A modern implementation of the classic **Tic-Tac-Toe** game built using **React.js**. This project focuses on interactive gameplay, clean UI, and enhanced features like **win/draw detection**, **score tracking**, and a **toggle to show/hide scores**.
@@ -40,16 +42,17 @@ A modern implementation of the classic **Tic-Tac-Toe** game built using **React.
 
 ---
 
-## 📂 Getting Started
+### Installation:-
 
-Follow the steps below to run the project locally:
+1.Clone the repository:-
+git clone https://github.com/Gagan-chandru/Tic-Tac-Toe-using-react.git
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/react-tic-tac-toe.git
+2.Install dependencies:-
+- cd Tic-Tac-Toe-using-react
+- npm install
 
-# Navigate into the project folder
-cd react-tic-tac-toe
+3.Start the app:-
+npm start
 
 # Install dependencies
 npm install
