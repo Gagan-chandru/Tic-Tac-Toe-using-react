@@ -1,3 +1,5 @@
+## 🔗 [Live Demo]
+
 <p align="center">
   <a href="https://your-game-link.com" target="_blank">
     <img src="https://img.shields.io/badge/🎮%20Click%20Here%20to%20Play-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Play Now">
