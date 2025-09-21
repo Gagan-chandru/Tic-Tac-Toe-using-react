@@ -1,7 +1,7 @@
 ## 🔗 [Live Demo](https://tic-tac-toe-react-gagan.netlify.app)
 
 <p>
-  <a href="https://tic-tac-toe-react-gagan.netlify.app/" target="_blank">
+  <a href="https://tic-tac-toe-react-gagan.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🎮%20Click%20Here%20to%20Play-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Play Now">
   </a>
 </p>
