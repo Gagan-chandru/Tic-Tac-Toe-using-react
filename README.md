@@ -1,13 +1,9 @@
 ## 🔗 [Live Demo]
 
-<p align="center">
-  <a href="https://your-game-link.com" target="_blank">
+<p>
+  <a href="https://tic-tac-toe-using-react-gagan-netlify" target="_blank">
     <img src="https://img.shields.io/badge/🎮%20Click%20Here%20to%20Play-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Play Now">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://your-demo-link.com" target="_blank">👉 🎮 <b>Live Demo</b> 👈</a>
 </p>
 
 # 🎮 Tic-Tac-Toe Game (React)
