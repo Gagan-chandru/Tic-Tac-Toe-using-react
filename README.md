@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://your-demo-link.com" target="_blank">👉 🎮 <b>Live Demo</b> 👈</a>
+</p>
+
 # 🎮 Tic-Tac-Toe Game (React)
 
 A modern implementation of the classic **Tic-Tac-Toe** game built using **React.js**. This project focuses on interactive gameplay, clean UI, and enhanced features like **win/draw detection**, **score tracking**, and a **toggle to show/hide scores**.
