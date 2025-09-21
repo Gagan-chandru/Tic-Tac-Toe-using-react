@@ -1,6 +1,8 @@
-## 🔗 Live Demo
-
-[![Netlify Status](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify)](https://your-netlify-site.netlify.app)
+<p align="center">
+  <a href="https://your-game-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🎮%20Click%20Here%20to%20Play-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Play Now">
+  </a>
+</p>
 
 # 🎮 Tic-Tac-Toe Game (React)
 
